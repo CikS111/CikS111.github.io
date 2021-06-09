@@ -11,6 +11,18 @@
         <content type="html"><![CDATA[<h1 id="人工智能概述"><a href="#人工智能概述" class="headerlink" title="人工智能概述"></a>人工智能概述</h1><h2 id="人工智能概述-1"><a href="#人工智能概述-1" class="headerlink" title="人工智能概述"></a>人工智能概述</h2><ul><li>达特茅斯会议-人工智能的起点</li><li>机器学习是人工智能的一个实现途径</li><li>深度学习是机器学习的一个方法发展而来<h2 id="机器学习、深度学习能做些什么"><a href="#机器学习、深度学习能做些什么" class="headerlink" title="机器学习、深度学习能做些什么"></a>机器学习、深度学习能做些什么</h2></li><li>传统预测</li><li>图像识别</li><li>自然语言处理</li></ul><h1 id="什么是机器学习"><a href="#什么是机器学习" class="headerlink" title="什么是机器学习"></a>什么是机器学习</h1><h2 id="机器学习定义"><a href="#机器学习定义" class="headerlink" title="机器学习定义"></a>机器学习定义</h2><p><em>机器学习是从数据中自动分析获得模型，并利用模型对未知数据进行预测</em></p><h2 id="解释"><a href="#解释" class="headerlink" title="解释"></a>解释</h2><p><strong>类似于人</strong><br><img src="https://z3.ax1x.com/2021/06/08/2sF9Ts.png"></p><h1 id="机器学习数据集"><a href="#机器学习数据集" class="headerlink" title="机器学习数据集"></a>机器学习数据集</h1><p><strong>结构：特征值+目标值</strong></p><p><img src="https://z3.ax1x.com/2021/06/08/2sAgFs.png" alt="2sAgFs.png"></p><h1 id="机器学习算法分类"><a href="#机器学习算法分类" class="headerlink" title="机器学习算法分类"></a>机器学习算法分类</h1><h2 id="监督学习"><a href="#监督学习" class="headerlink" title="监督学习"></a>监督学习</h2><ul><li><p>目标值：类别 —— 分类问题  </p><blockquote><p>具体算法：k-近邻算法、贝叶斯分类、决策树与随机森林、逻辑回归</p></blockquote></li></ul><ul><li><p>目标值：连续性数据 —— 回归问题</p><blockquote><p>具体算法：线性回归、岭回归</p></blockquote></li></ul><h2 id="无监督学习"><a href="#无监督学习" class="headerlink" title="无监督学习"></a>无监督学习</h2><ul><li><p>目标值：无</p><blockquote><p>具体算法：k-means</p></blockquote></li></ul><h2 id="练习"><a href="#练习" class="headerlink" title="练习"></a>练习</h2><pre><code>  1.预测明天的气温是多少度？  回归  2.预测明天是阴、晴还是雨？  分类  3.人脸年龄预测？  分类（老小）/回归（具体年龄）  4.人脸识别？  分类</code></pre><h1 id="机器学习开发流程"><a href="#机器学习开发流程" class="headerlink" title="机器学习开发流程"></a>机器学习开发流程</h1><ol><li>获取数据</li><li>数据处理</li><li>特征工程</li><li>建立模型（算法训练）</li><li>模型评估</li><li>应用<br><img src="https://z3.ax1x.com/2021/06/08/2sZCRI.png" alt="2sZCRI.png"><br><img src="https://z3.ax1x.com/2021/06/08/2sZDOK.png" alt="2sZDOK.png"></li></ol><h1 id="学习框架和资料介绍"><a href="#学习框架和资料介绍" class="headerlink" title="学习框架和资料介绍"></a>学习框架和资料介绍</h1><ol><li><p>算法是核心、数据与计算是基础</p></li><li><p>找准定位</p><blockquote><p>大部分复杂模型的算法设计都是算法工程师在做，而我们做的是：</p><blockquote><ul><li>分析很多数据</li><li>分析具体的业务</li><li>应用常见的算法</li><li>特征工程、调参、优化</li></ul></blockquote></blockquote></li><li><p>怎么做？</p><ol><li>入门</li><li>实战类书记</li><li>机器学习（西瓜书） - 周志华<br>统计学习方法 - 李航<br>深度学习（花书） </li></ol></li></ol>]]></content>
       
       
+      <categories>
+          
+          <category> 机器学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 机器学习 </tag>
+            
+        </tags>
       
     </entry>
     
